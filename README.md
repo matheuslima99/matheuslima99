@@ -7,7 +7,6 @@
 
 ### Apaixonado por tecnologia e por tudo aquilo que ela pode me proporcionar.
 - 🏅 Estudante de Sistemas de informação na Universidade Federal da Paraíba. (UFPB)
-- 🎯 Cursando Desenvolvimento Web Full Stack. (ProgramadorBr)
 - 🎯 Sempre em busca de novos desafios.
 - 🎯 Meu objetivo é trabalhar com desenvolvimento.
 
