@@ -1,4 +1,4 @@
-### Hi there! Eu sou o Matheus Lima 👋
+### Hi there! Eu sou o Matheus Lima <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
