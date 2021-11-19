@@ -1,5 +1,9 @@
-![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
-The Dark-Mode always wins.
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
 <br/>
 
 <h1 align="center">
